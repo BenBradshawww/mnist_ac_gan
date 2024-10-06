@@ -6,3 +6,6 @@ __pycachee__/
 
 # Ignore virtual environment
 myenv/
+
+# Ignore checkpoints
+acgan_training_checkpoints
