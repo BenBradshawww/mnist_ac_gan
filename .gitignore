@@ -1,0 +1,8 @@
+# Ignore DS_Store
+.DS_Store
+
+# Ignore pycache
+__pycachee__/
+
+# Ignore virtual environment
+myenv/
