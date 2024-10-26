@@ -16,7 +16,7 @@ Below shows the loss during the training process.
 
 As mentioned in the ACGAN paper, the training process was unstable. An alternative architecture could be used to improve training stability.
 
-I've also attached a gif of the images during training below.
+I've also attached a gif of the images produced during training below.
 
 
 ![Alt text](training_images.gif)
