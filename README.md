@@ -11,8 +11,12 @@ Key aspects of this project include:
 * Results: After training, the AC-GAN was able to generate realistic, high-quality images for all the digits in the MNIST dataset. However, the model was unable to accurately match the designated classes.
 
 Below shows the loss during the training process.
+
 ![Alt text](loss_output.png)
-As mentioned in the ACGAN paper, the training process was unstable.
+
+As mentioned in the ACGAN paper, the training process was unstable. An alternative architecture could be used to improve training stability.
+
+I've also attached a gif of the images during training below.
 
 
 ![Alt text](training_images.gif)
